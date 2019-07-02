@@ -1,0 +1,4 @@
+1 | Andrey | Novosib | pampam | 07-05-1991 | andrgladkikh@gmail.com | 
+2 | Ivan | Novosib | tamtam | 13-11-1991 | gandboy@gmail.com | 
+1 | Andrey | Novosib | pampam | 07-05-1991 | andrgladkikh@gmail.com | 
+2 | Ivan | Novosib | tamtam | 13-11-1991 | gandboy@gmail.com | 
